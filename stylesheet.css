@@ -1,0 +1,54 @@
+.docborder { 
+    margin: 1em;
+    padding: 0.75em;
+    width: 320px;
+    height: 620px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: gray;
+}
+.infoborder {
+    margin: 0em;
+    padding: 0.25em;
+    width: 300px;
+    height: 325px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: gray;
+}
+h3 {
+    font-size: 27pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0em;
+    padding: 0.10em; 
+}
+h6 {
+    font-size: 9pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin: 0em;
+    padding: 0.10em;
+}
+#animal-fact { font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#description { font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif; 
+    margin: 0.30em;
+}
+ul { font-size: 12pt;
+      font-family: 'Times New Roman', Times, serif; 
+      list-style: none;
+      padding-left: 0;
+}
+li { 
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif; 
+    list-style: none; 
+}
+p {
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+}
